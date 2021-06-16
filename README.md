@@ -1,2 +1,2 @@
-# Profile-card-component
-Profile Card Component From Frontend Mentor
+# Social-Proof-Section
+social proof sectiont From Frontend Mentor
